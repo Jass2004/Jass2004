@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jaskirat Singh
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning java , c++ and python
 <!---
 Jass2004/Jass2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
